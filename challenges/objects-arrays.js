@@ -111,7 +111,6 @@ console.log(contactInfo);
 //   for (let i = 0; i < array.length; i++) {
 //     let value = array[i];  
 //     if (value.substring(0, 3) === 'Uni') {
-      
 //       return uniswithUni.push(value);
 //     };
 //   };
